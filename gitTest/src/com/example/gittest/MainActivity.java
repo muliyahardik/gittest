@@ -15,7 +15,7 @@ public class MainActivity extends Activity {
 
 	@Override
 	public boolean onCreateOptionsMenu(Menu menu) {
-		// added another forward change in master
+		//2 added another forward change in master
 		getMenuInflater().inflate(R.menu.main, menu);
 		return true;
 	}
